@@ -1,7 +1,7 @@
 # Olá! 👋
 
 ## Sobre Mim
-- ✨ Este repositório é profissional, para acessar meus repositórios visite meu perfil público.
+✨ Este repositório é profissional, para acessar meus repositórios visite meu perfil público.
 
 ## Perfil Público
 <p align="left">
